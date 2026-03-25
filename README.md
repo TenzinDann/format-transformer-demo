@@ -6,7 +6,7 @@ This is an early demo of my website skin
 
 The final Website: [https://tenzindann.github.io/format-transformer/](https://tenzindann.github.io/format-transformer/)
 
-## ⭐支持网易云NCM 解密⭐Support NCM Decrypt(An Infamous Netease Encrypted Format)
+## ⭐支持网易云NCM 解密⭐Support NCM Decrypt ( An Infamous Netease Encrypted Format )
 
 - Supported-Convert：
   - Music: `MP3 / FLAC / WAV / OGG / AAC / M4A`
