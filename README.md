@@ -2,6 +2,7 @@
 
 # 在线格式转换网站
 
+<<<<<<< HEAD
 This is an early demo of my website skin
 
 The final Website: [https://tenzindann.github.io/format-transformer/](https://tenzindann.github.io/format-transformer/)
@@ -13,3 +14,4 @@ The final Website: [https://tenzindann.github.io/format-transformer/](https://te
   - Image: `PNG / JPG / WEBP / GIF / BMP / SVG / ICO / AVIF / HEIC / HEIF`
   - Document: `TXT / MD / CSV / TSV / JSON / XLSX / XLS / HTML / XML / INI / YAML / TOML / DOCX / PDF`
   - NCM Decrypt: `NCM -> MP3 / FLAC`
+=======
